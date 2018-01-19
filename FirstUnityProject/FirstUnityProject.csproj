@@ -103,6 +103,7 @@
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\EnemySpawn.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\Interactions.cs" />
     <Compile Include="Assets\Scripts\JoyScript.cs" />
     <Compile Include="Assets\Scripts\PlayerFire.cs" />
     <Compile Include="Assets\Scripts\PlayerMain.cs" />
